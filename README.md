@@ -56,7 +56,7 @@ Own and build your own iOS app.
 [Biron]()  
 [Diego]()  
 [Elizabeth]()  
-[Genesis]()  
+[Genesis](https://github.com/GMosquera1/SunDayApp)  
 [Ian]()  
 [Ibraheem]()  
 [Jabeen]()  
